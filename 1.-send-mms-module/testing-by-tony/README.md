@@ -1,10 +1,12 @@
 ---
-description: This serves as the documentation of the MMS Module of CMS Platform
+description: >-
+  Banner Module displays the details of different Banners made by our colleagues
+  for promotion.
 ---
 
-# CMS USER GUIDE
+# Banner Module
 
-![](.gitbook/assets/banner-image-1.png)
+![](../../.gitbook/assets/banner-image-10.png)
 
 | **FIELD NAME** | **FIELD DESCRIPTIONS** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
