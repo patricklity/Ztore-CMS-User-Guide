@@ -20,7 +20,7 @@ Table of contents
 .. _CMS USER GUIDE: README.rst
 .. _Banner Module Category: 1.-send-mms-module/README.rst
 .. _Banner Module: 1.-send-mms-module/testing-by-tony/README.rst
-.. _Buttons: 1.-send-mms-module/testing-by-tony/untitled-1/README.md
+.. _Buttons: 1.-send-mms-module/testing-by-tony/untitled-1/README.rst
 .. _Create Banner: 1.-send-mms-module/testing-by-tony/untitled-1/untitled/README.md
 .. _Create Banner - Home Banner: 1.-send-mms-module/testing-by-tony/untitled-1/untitled/create-banner-home-banner.md
 .. _Create Banner - Category Banner: 1.-send-mms-module/testing-by-tony/untitled-1/untitled/create-banner-category-banner.md
