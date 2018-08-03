@@ -17,9 +17,9 @@ Table of contents
 
          -  `Other Search`_
 
-.. _CMS USER GUIDE: README.md
-.. _Banner Module Category: 1.-send-mms-module/README.md
-.. _Banner Module: 1.-send-mms-module/testing-by-tony/README.md
+.. _CMS USER GUIDE: README.rst
+.. _Banner Module Category: 1.-send-mms-module/README.rst
+.. _Banner Module: 1.-send-mms-module/testing-by-tony/README.rst
 .. _Buttons: 1.-send-mms-module/testing-by-tony/untitled-1/README.md
 .. _Create Banner: 1.-send-mms-module/testing-by-tony/untitled-1/untitled/README.md
 .. _Create Banner - Home Banner: 1.-send-mms-module/testing-by-tony/untitled-1/untitled/create-banner-home-banner.md
