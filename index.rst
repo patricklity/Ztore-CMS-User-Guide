@@ -1,7 +1,7 @@
 Table of contents
 =================
 * [OTP Javadoc](http://dev.opentripplanner.org/javadoc/)
-* [CMS USER GUIDE] (: 1.-send-mms-module/README.rst/)
+* [CMS USER GUIDE] (README.rst)
 -  `CMS USER GUIDE`_
 -  `Banner Module Category`_
 
