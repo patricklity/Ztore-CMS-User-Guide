@@ -1,6 +1,6 @@
 --------------
 
-description: This serves as the documentation of the MMS Module of CMS Platform
+Description: This serves as the documentation of the MMS Module of CMS Platform
 -------------------------------------------------------------------------------
 
 CMS USER GUIDE
